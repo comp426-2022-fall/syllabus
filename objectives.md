@@ -25,3 +25,5 @@ In addition to the above, students will be able to:
 - Jump-start prototyping by using existing JS libraries
 - Plan and manage projects while collaborating with a team
 - Ask design questions for basic interaction flows
+
+[**RETURN TO MAIN SYLLABUS PAGE**](https://github.com/comp426-2022-fall/syllabus/blob/main/README.md#course-policies-and-other-information)
