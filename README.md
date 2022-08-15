@@ -10,29 +10,32 @@ We will discuss licensing and make use of and operate entirely within open sourc
 
 ### Instructional staff
 
-| Role | Name | GH username | Contact | Office hours |
+| **Name** | **Role** | **GH username** | **Contact** |
 |:--- |:--- |:--- |:--- |:--- |
-| **Professor** | John D. Martin III | @jdmar3 | [john.d.martin.iii@unc.edu](mailto:john.d.martin.iii@unc.edu) | TBA |
-| **TA** | Cameron Simbeck | @camsimba | camsimba@live.unc.edu | TBA |
-| **LA** | Alice Yu |  | yuualice@live.unc.edu | TBA |
-| **LA** | Jessica Wang |  | jessikka@email.unc.edu | TBA |
-| **LA** | Lama Abed |  | lamaab@email.unc.edu | TBA |
-| **LA** | Nila Thillaivanan |  | vennila@email.unc.edu | TBA |
-| **LA** | Ose Izokun | @oizokun | oseizo@live.unc.edu | TBA |
+| **John D. Martin III** | Professor |  @jdmar3 | [john.d.martin.iii@unc.edu](mailto:john.d.martin.iii@unc.edu) |
+| **Cameron Simbeck** | TA | @camsimba | camsimba@live.unc.edu |
+| **Alice Yu** | LA |   | yuualice@live.unc.edu |
+| **Jessica Wang** | LA |   | jessikka@email.unc.edu |
+| **Lama Abed** | LA |  | lamaab@email.unc.edu |
+| **Nila Thillaivanan** | LA |  | vennila@email.unc.edu |
+| **Ose Izokun** | LA | @oizokun | oseizo@live.unc.edu |
 
 ### Dates and times
 
-|     |     |
+| **Key** | **Value** |
 |:--- |:--- |
 | **Time** | 08:00-09:15 |
 | **Days** | TU,TH |
 | **First day** | 2022-08-16 |
 | **Last day** | 2022-11-29 |
-| **Exam day** | |
-| **No class days** | |
-| **Wellness day** | 2022-09-06 |
-| **Fall break** | 2022-10-20 |
-| **Thanksgiving** | 2022-11-24 |
+| **Exam day** |  |
+
+
+| **_No class days_** | **Date** |
+| _Wellness day_ | 2022-09-06 |
+| _Fall break_ | 2022-10-20 |
+| _Group work day_ | 2022-11-08 |
+| _Thanksgiving_ | 2022-11-24 |
 
 ### Format and location
 
