@@ -1,11 +1,8 @@
----
-title: "tl;dr"
-description: "There is a lot of information here. Please enjoy this no-bs summary."
-draft: false
-weight: 10
-enableToc: true
-tocLevels: ["h2", "h3", "h4"]
----
+# TL;DR
+
+## Modern Web Programming (COMP 426)
+
+There is a lot of information in the syllabus. Please enjoy this no-bs summary.
 
 ### What is this class?
 
@@ -73,8 +70,8 @@ tocLevels: ["h2", "h3", "h4"]
 ### How do we do things?
 
 - We will use GitHub.
-- We will talk about open source and licensing.
-- We will learn how to work collaboratively.
+- We will use open source tools.
+- We will work collaboratively.
 
 ### CTRL+C CTRL+V?
 
@@ -90,7 +87,11 @@ tocLevels: ["h2", "h3", "h4"]
 - We can't learn anything if we are beset at all sides by stress.
 - We have to tke care of ourselves and each other or we are nowhere.
 - Be kind to one another and the instructional staff.
-- The instructional staff will be kind to you and we'll all learn some interesting stuff this semester. 
+- The instructional staff will be kind to you and we'll all learn some interesting stuff this semester.
+
+### WTF is with the dinosaur thing?
+
+- Figure it out.
 
 ### I thought the course was about something else entirely and I'm mad about it
 
