@@ -1,6 +1,6 @@
 # Grade breakdown
 
-## 
+## Modern Web Programming (COMP 426)
 
 Grading will be based on 1,000,000 points.
 The breakdown is as follows.
@@ -64,3 +64,5 @@ The number that you are responsible for is actually relatively few.
 You should easily be able to record over 100 commits over the course of the semester across 10 assignments and the final project.
 
 In fact, you should have WAY more than that if you are using Git and GitHub properly throughout the semester.
+
+[**RETURN TO MAIN SYLLABUS PAGE**](https://github.com/comp426-2022-fall/syllabus/blob/main/README.md#course-policies-and-other-information)
