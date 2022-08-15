@@ -1,86 +1,53 @@
----
-title: "Deliverables and assessments"
-description: "There will be a series of programming assignments, a final team project to develop a web application, and several assessments."
-draft: false
-weight: 40
-enableToc: true
-tocLevels: ["h2", "h3", "h4"]
----
+# Assignments
 
-## Assignments
+## Modern Web Programming (COMP 426)
 
-This is a tentative list of assignments.
-These may be adjusted or merged depending on how the course flows. 
+### Regular assignments
 
 | Assignment | Title | Topics covered | Points |
 |---|---|---|---:|
-| a00 | Setup | Installing software; git and Github; bash/command line | 71,428 |
-| a01 | Node | Package management; creating packages; Node.js; npm | 71,429 |
-| a02 | Functions and modules | Running JavaScript as program; JavaScript functions | 71,428 |
-| a03 | API | Turning functions into endpoints; REST; Express | 71,429 |
-| a04 | Logging and database | Interface an API with a database; store logs | 71,428 |
-| a05 | Web interface | Connect an interface to your API | 71,429 |
-| a06 | React and auth | Reactify your app; add authentication | 71,429 |
+| a00 | Onboarding | Installing software; git and Github; bash/command line | 50,000 |
+| a01 | Node | Package management; creating packages; Node.js; npm; write a webserver | 50,000 |
+| a02 | Functions | Running JavaScript as program; Write JavaScript functions | 50,000 |
+| a03 | Modules | Turn a collection of functions into a module; Learn to integrate it |  |
+| a04 | API | Turning functions into endpoints; REST; Express | 50,000 |
+| a05 | Database | Interface an API with a database; store info | 50,000 |
+| a06 | Authentication | Create a set of user login endpoints; Access DB info for authenticated users | 50,000 |
+| a07 | Logging | Create log files and a log database | 50,000 |
+| a08 | Web interface | Connect an interface to your API | 50,000 |
+| a09 | Advanced web interface | Use a library or framework to build a more polished web interface | 50,000 | 
 | a99 | Final project | Collaboration; Project planning and management | 300,000 |
 
-### Assignment submission
+#### Assignment submission
 
 All assignments will be handled by GitHub classroom.
-Pushing code to the repository created when you accept assignments will submit the assignment for grading.
+Pushing code to the repository created when you accept assignments will submit the assignment to check for errors. If all checks pass, then you get all the points!
 
-You can submit (push) as many times as you need to in order to pass the unit tests configured in GitHub classroom.
+You can submit (push) as many times as you need to in order to pass the checks configured in GitHub classroom.
 
-There are due dates for the assignments, but think of these as guideposts to help you keep up so that you do not get behind.
-The due date will not cut off submission.
+You will write most of the test scripts yourself. The purpose of the checks is not to get a grade: it is to develop software that works, and works well.
+
+There are due dates for the assignments, but the due date will not cut off submission.
 
 You will **always** be able to submit or resubmit after the due date has passed. 
 
-**You will not lose points for pushing code to your assignment repos after the due date for a given assignment has passed, ever.**
+**You will not lose points for pushing code to your assignment repos after the due date for a given assignment has passed, ever.** You will, however, gain bonus points if you submit your assignments _before_ the due dates.
 
-## Final project
+It is in your interest to keep up to date with assignments. They will track relatively closely with what we are covering in the live sessions. 
 
-Your final project will be developed with a team.
+### Final project assignment (a99)
 
-This Spring, we are going to focus our attention on public health information apps and systems.
-Your team will design an app that fits one of the following profiles or similar:
+You will work on a team of three (3) people to build a web application. It can be whatever your team wants. the main purpose of the final project is learning how to collaborate in order to scope, plan, document, organize, and build a prototype. 
 
-- Public health information dashboard
-- Public health information tracking app (reporting test or vaccine status, etc.)
-- Public health resource tracking app (availability of testing, masks, PPE, vaccination, other supplies, etc.)
-- Emergency management information portal (planning and decision-making for institutions, government, agencies, etc.)
-- Outbreak/cluster tracking app or dashboard
-- Public health information app for end users (to provide useful information and aggregate credible sources)
+Your team will use GitHub to plan and manage your project. User the projects tool and the discussion board attached to your team's repository. 
 
-Your team will use GitHub to plan and manage your project.
 You will create documentation for both developers and users of your app.
-You will also create demos as part of that documentation.
+Ideally, you would start with documentation 
 
-### Presenting final projects
-
-There will be no in-class presentation for your final project.
-Instead, your team will produce a demo video.
-
-See [a99](a/99) instructions for details.
-
-It is okay for your project to still be a work in progress when presented.
+It is okay for your project to still be a work in progress when you submit it at the end of the semester. We are looking for prototypes and demonstrate a grasp of concepts.
 
 All final project materials will be due on the day scheduled for the final exam.
 
-## Assessments
+The assignment instructions repo will have more details.
 
-There will be several assessments throughout the course.
-
-You will take a questionnaire at the beginning of the course that gives us a baseline for your familiarity with certain tools and concepts. 
-
-There will also be midterm and final questionnaires, but they will not assess specific knowledge in the way a traditional exam does.
-Instead they will assess your familiarity with concepts and tools that we are using in the course and allow us to compare across the semester.
-
-| Assessment | Purpose | Form | Points |
-|:--- |:--- |:--- | ---:|
-| Beginning | Establish a baseline for skills and topic familiarity| Questionnaire | 50,000 |
-| Midterm | Progress and check-in | GitHub + Questionnaire | 50,000 |
-| Final | Self- and team-assessment | GitHub + Questionnaire | 50,000 |
-
-The midterm and final will include a self-assessment component and also an assessment of your team dynamics.
-
-These assessments are designed to evaluate our teaching effectiveness as much as they are designed to assess your skill and familiarity with concepts and tools.
+[**RETURN TO MAIN SYLLABUS PAGE**](https://github.com/comp426-2022-fall/syllabus/blob/main/README.md#course-policies-and-other-information)
