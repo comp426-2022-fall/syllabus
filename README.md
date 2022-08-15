@@ -42,10 +42,10 @@ However, given that the there are multiple ongoing public health emergencies, et
 
 All sessions will be archived as well so that you may return to them or view them later if you have missed something.
 
-|     | Location |  |  |
+|     | Location | Room/Link | Access |
 |:--- |:--- |:--- |:--- |
 | In-person sessions | Global Education Center | Room 1015 (Nelson Mandela Auditorium |  |
-| Remote sessions | Zoom |  | Password: the date that Tim Berners Lee invented the World Wide Web in ISO8601 (YYYY-MM-DD) |
+| Remote sessions | Zoom |  | Password: [the date that Tim Berners Lee invented the World Wide Web in ISO8601 (YYYYMMDD)]([https://en.wikipedia.org/wiki/Tim_Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee#:~:text=management%20system%20on-,12%20March%201989,-%2C%5B5%5D)) |
 | Archived sessions | Panopto |  |  |
 
 ### Course communication
@@ -106,9 +106,7 @@ Please follow this link and follow the instructions you find there.
 
 
 
-## Disclaimer
-
-## Ch-ch-ch-ch-changes
+## Disclaimer: Ch-ch-ch-ch-changes
 
 The instructor reserves to right to make changes to the syllabus, including any project due dates, assessment dates, assignments, or other aspects of the schedule and structure.
 
