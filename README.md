@@ -21,7 +21,7 @@ We will discuss licensing and make use of and operate entirely within open sourc
 | **Ose Izokun** | LA | @oizokun | oseizo@live.unc.edu |
 
 ### Dates and times
-
+| | |
 |:--- |:--- |
 | **Time** | 08:00-09:15 |
 | **Days** | TU,TH |
