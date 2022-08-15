@@ -22,7 +22,6 @@ We will discuss licensing and make use of and operate entirely within open sourc
 
 ### Dates and times
 
-| **Key** | **Value** |
 |:--- |:--- |
 | **Time** | 08:00-09:15 |
 | **Days** | TU,TH |
@@ -46,11 +45,11 @@ However, given that the there are multiple ongoing public health emergencies, et
 
 All sessions will be archived as well so that you may return to them or view them later if you have missed something.
 
-|     | Location | Room/Link | Other info |
+|     | **Location** | **Room/Link** | **Other info** |
 |:--- |:--- |:--- |:--- |
-| In-person sessions | Global Education Center | Room 1015 | (Nelson Mandela Auditorium) |
-| Remote sessions | Zoom | https://unc.zoom.us/j/99902468068 | Password: [the date that Tim Berners Lee invented the World Wide Web in ISO8601 (YYYYMMDD)](https://en.wikipedia.org/wiki/Tim_Berners-Lee#:~:text=management%20system%20on-,12%20March%201989,-%2C%5B5%5D) |
-| Archived sessions | Panopto |  |  |
+| **In-person sessions** | Global Education Center | Room 1015 | (Nelson Mandela Auditorium) |
+| **Remote sessions** | Zoom | https://unc.zoom.us/j/99902468068 | Password: [the date that Tim Berners Lee invented the World Wide Web in ISO8601 (YYYYMMDD)](https://en.wikipedia.org/wiki/Tim_Berners-Lee#:~:text=management%20system%20on-,12%20March%201989,-%2C%5B5%5D) |
+| **Archived sessions** | Panopto |  |  |
 
 ### Course communication
 
