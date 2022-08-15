@@ -1,8 +1,8 @@
 # Course structure
 
-# Modern Web Programming (COMP 426)
+## Modern Web Programming (COMP 426)
 
-## Class sessions
+### Class sessions
 
 We will combine demonstrations and lectures with hands-on work in class.
 Some class time will be reserved for you to work with your teams. 
