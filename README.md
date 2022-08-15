@@ -28,7 +28,7 @@ We will discuss licensing and make use of and operate entirely within open sourc
 | **Days** | TU,TH |
 | **First day** | 2022-08-16 |
 | **Last day** | 2022-11-29 |
-| **Exam day** |  |
+| **Exam day** | 2022-12-08T12:00:00+04:00 |
 
 
 | **_No class days_** | **Date** |
@@ -49,7 +49,7 @@ All sessions will be archived as well so that you may return to them or view the
 |     | Location | Room/Link | Other info |
 |:--- |:--- |:--- |:--- |
 | In-person sessions | Global Education Center | Room 1015 | (Nelson Mandela Auditorium) |
-| Remote sessions | Zoom | https://unc.zoom.us/j/99902468068 | Password: [the date that Tim Berners Lee invented the World Wide Web in ISO8601 (YYYYMMDD)]([https://en.wikipedia.org/wiki/Tim_Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee#:~:text=management%20system%20on-,12%20March%201989,-%2C%5B5%5D)) |
+| Remote sessions | Zoom | https://unc.zoom.us/j/99902468068 | Password: [the date that Tim Berners Lee invented the World Wide Web in ISO8601 (YYYYMMDD)](https://en.wikipedia.org/wiki/Tim_Berners-Lee#:~:text=management%20system%20on-,12%20March%201989,-%2C%5B5%5D) |
 | Archived sessions | Panopto |  |  |
 
 ### Course communication
