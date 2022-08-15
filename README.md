@@ -20,6 +20,10 @@ We will discuss licensing and make use of and operate entirely within open sourc
 | **Nila Thillaivanan** | LA |  | vennila@email.unc.edu |
 | **Ose Izokun** | LA | @oizokun | oseizo@live.unc.edu |
 
+A table of office hours availability will be available here: 
+
+[Office hours schedule](./officehours.md)
+
 ### Dates and times
 | | |
 |:--- |:--- |
@@ -75,20 +79,24 @@ If your communication is about general course information or course topics, then
 
 There are hundreds of members of this class and few instructional staff. The systems that we have set up to address communication are there to manage this workload so that we may provide you with the information you need while also not burning ourselves out.
 
-### Course policies and procedures
+### Course policies and other information
 
 The links below will take you to other information, policies, and procedures related to the course.
 
 Please read them thoroughly.
 
-#### Course info
+#### General course info
 
 - [Course objectives](./objectives.md)
 - [Course structure](./structure.md)
+- [Course resources](./resources.md)
 - [Required software](./software.md)
+
+#### Course policies
+
 - [Assignments](./assignments.md)
+- [Attendance and participation](./attendance.md)
 - [Grading](./grading.md)
-- [Office hours schedule](./officehours.md)
 
 #### Health, well-being, and accessibility
 
