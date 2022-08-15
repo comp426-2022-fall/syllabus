@@ -11,7 +11,7 @@ We will discuss licensing and make use of and operate entirely within open sourc
 ### Instructional staff
 
 | **Name** | **Role** | **GH username** | **Contact** |
-|:--- |:--- |:--- |:--- |:--- |
+|:--- |:--- |:--- |:--- |
 | **John D. Martin III** | Professor |  @jdmar3 | [john.d.martin.iii@unc.edu](mailto:john.d.martin.iii@unc.edu) |
 | **Cameron Simbeck** | TA | @camsimba | camsimba@live.unc.edu |
 | **Alice Yu** | LA |   | yuualice@live.unc.edu |
@@ -32,6 +32,7 @@ We will discuss licensing and make use of and operate entirely within open sourc
 
 
 | **_No class days_** | **Date** |
+|:--- |:--- |
 | _Wellness day_ | 2022-09-06 |
 | _Fall break_ | 2022-10-20 |
 | _Group work day_ | 2022-11-08 |
