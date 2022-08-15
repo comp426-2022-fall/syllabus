@@ -34,7 +34,7 @@ We will discuss licensing and make use of and operate entirely within open sourc
 | **Fall break** | 2022-10-20 |
 | **Thanksgiving** | 2022-11-24 |
 
-### Format
+### Format and location
 
 This class is listed in the course schedule as running in-person, and so it shall.
 
@@ -43,7 +43,7 @@ However, given that the there are multiple ongoing public health emergencies, et
 All sessions will be archived as well so that you may return to them or view them later if you have missed something.
 
 |     | Location |  |  |
-|:--- |:--- |:--- |
+|:--- |:--- |:--- |:--- |
 | In-person sessions | Global Education Center | Room 1015 (Nelson Mandela Auditorium |  |
 | Remote sessions | Zoom |  | Password: the date that Tim Berners Lee invented the World Wide Web in ISO8601 (YYYY-MM-DD) |
 | Archived sessions | Panopto |  |  |
