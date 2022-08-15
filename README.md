@@ -85,6 +85,10 @@ The links below will take you to other information, policies, and procedures rel
 
 Please read them thoroughly.
 
+#### TL;DR
+
+- [TL;DR](./tldr.md)
+
 #### General course info
 
 - [Course objectives](./objectives.md)
@@ -109,13 +113,11 @@ Please read them thoroughly.
 - [Honor Code](./honor.md)
 - [Title IX](./title9.md)
 
-#### TL;DR
-
-- [TL;DR](./tldr.md)
-
 ## Dinosaur
 
-Please follow this link and follow the instructions you find there.
+Please follow the link below, accept the assignment, refresh the page, and follow the link to your assignment repository.
+
+Once you are there, follow the instructions in the README.md file.
 
 https://classroom.github.com/a/9_RF1Blr
 
