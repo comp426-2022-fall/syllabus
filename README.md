@@ -94,14 +94,15 @@ Please read them thoroughly.
 
 #### Course policies
 
-- [Assignments](./assignments.md)
-- [Attendance and participation](./attendance.md)
 - [Grading](./grading.md)
+- [Attendance and participation](./attendance.md)
+- [Assignments](./assignments.md)
+- [Exams](./exams.md)
 
 #### Health, well-being, and accessibility
 
-- [Well-being](./wellbeing.md)
-- [Accessibility](./accessibility.md)
+- [Mental health and well-being](./wellbeing.md)
+- [Accessibility and accommodations](./accessibility.md)
 
 #### University policies
 
@@ -116,7 +117,7 @@ Please read them thoroughly.
 
 Please follow this link and follow the instructions you find there.
 
-
+https://classroom.github.com/a/9_RF1Blr
 
 ## Disclaimer: Ch-ch-ch-ch-changes
 
