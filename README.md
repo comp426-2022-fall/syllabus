@@ -10,7 +10,12 @@ We will discuss licensing and make use of and operate within open source ecosyst
 | Role | Name | Contact | Office hours |
 |:--- |:--- |:--- |:--- |
 | **Professor** | John D. Martin III | [john.d.martin.iii@unc.edu](mailto:john.d.martin.iii@unc.edu) | TBA |
-| **TA** | Cameron Simbeck |  | TBA |
+| **TA** | Cameron Simbeck | camsimba@live.unc.edu | TBA |
+| **LA** | Alice Yu |	yuualice@live.unc.edu | TBA |
+| **LA** | Jessica Wang |	jessikka@email.unc.edu | TBA |
+| **LA** | Lama Abed | lamaab@email.unc.edu | TBA |
+| **LA** | Nila Thillaivanan | vennila@email.unc.edu | TBA |
+| **LA** | Ose Izokun | oseizo@live.unc.edu | TBA |
 
 ### Dates and times
 
