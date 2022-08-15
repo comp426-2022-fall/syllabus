@@ -42,10 +42,10 @@ However, given that the there are multiple ongoing public health emergencies, et
 
 All sessions will be archived as well so that you may return to them or view them later if you have missed something.
 
-|     | Location | Room/Link | Access |
+|     | Location | Room/Link | Other info |
 |:--- |:--- |:--- |:--- |
-| In-person sessions | Global Education Center | Room 1015 (Nelson Mandela Auditorium |  |
-| Remote sessions | Zoom |  | Password: [the date that Tim Berners Lee invented the World Wide Web in ISO8601 (YYYYMMDD)]([https://en.wikipedia.org/wiki/Tim_Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee#:~:text=management%20system%20on-,12%20March%201989,-%2C%5B5%5D)) |
+| In-person sessions | Global Education Center | Room 1015 | (Nelson Mandela Auditorium) |
+| Remote sessions | Zoom | https://unc.zoom.us/j/99902468068 | Password: [the date that Tim Berners Lee invented the World Wide Web in ISO8601 (YYYYMMDD)]([https://en.wikipedia.org/wiki/Tim_Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee#:~:text=management%20system%20on-,12%20March%201989,-%2C%5B5%5D)) |
 | Archived sessions | Panopto |  |  |
 
 ### Course communication
@@ -81,9 +81,10 @@ Please read them thoroughly.
 #### Course info
 
 - [Course objectives](./objectives.md)
-- [Course structure](structure.md)
+- [Course structure](./structure.md)
+- [Required software](./software.md)
 - [Assignments](./assignments.md)
-- [Grading](grading.md)
+- [Grading](./grading.md)
 - [Office hours schedule](./officehours.md)
 
 #### Health, well-being, and accessibility
@@ -93,12 +94,12 @@ Please read them thoroughly.
 
 #### University policies
 
-- [Honor Code](honor.md)
-- [Title IX](title9.md)
+- [Honor Code](./honor.md)
+- [Title IX](./title9.md)
 
 #### TL;DR
 
-- [TL;DR](tldr.md)
+- [TL;DR](./tldr.md)
 
 ## Dinosaur
 
