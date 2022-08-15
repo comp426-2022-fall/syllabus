@@ -1,4 +1,6 @@
-## Attendance and participation
+# Attendance and participation
+
+## Modern Web Programming (COMP 426)
 
 Attendance in class sessions is expected but does not have to always be in-person.
 
@@ -40,3 +42,5 @@ Our goal is to get you _very_ comfortable using a platform like GitHub so that w
 If you have something to say, put it in the GH org discussions. Don't use GroupMe or some other third-party tool. That doesn't help anyone, least of all you.
 
 So, use it. Also, we can see all of your activity in the audit log and will use this as the basis for your engagenment score for the class.
+
+[**RETURN TO MAIN SYLLABUS PAGE**](https://github.com/comp426-2022-fall/syllabus/blob/main/README.md#course-policies-and-other-information)
