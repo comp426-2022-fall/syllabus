@@ -83,8 +83,8 @@ Please read them thoroughly.
 - [Course objectives](./objectives.md)
 - [Course structure](structure.md)
 - [Assignments](./assignments.md)
-- [Office hours schedule](./officehours.md)
 - [Grading](grading.md)
+- [Office hours schedule](./officehours.md)
 
 #### Health, well-being, and accessibility
 
