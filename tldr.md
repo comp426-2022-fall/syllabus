@@ -8,7 +8,7 @@ There is a lot of information in the syllabus. Please enjoy this no-bs summary.
 
 - This is a class about building things that make the web go. 
 - We're going to learn how to do that by doing that. 
-- We use an array of langauges and tools as needed.
+- We use an array of languages and tools as needed.
 
 ### What ISN'T this class? 
 
