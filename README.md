@@ -1,3 +1,5 @@
+# Syllabus
+
 ## Modern Web Programming (COMP 426)
 
 In this course, we will take a very practical, hands-on approach to learning how to design, build, and interact with web APIs, back-end server applications, and front-end client apps and interfaces.
