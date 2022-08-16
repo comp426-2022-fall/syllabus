@@ -21,7 +21,7 @@ There is a lot of information in the syllabus. Please enjoy this no-bs summary.
 - Yah it's super easy if you can follow instructions, read documentation, and Google error messages.
 - It's also easy if you like figuring things out.
 
-### I heard this class is hard?
+### I heard this class is super hard?
 
 - Yeah, it's really, really hard if you hate figuring things out.
 - It's hard if you refuse to follow instructions.
@@ -85,7 +85,7 @@ There is a lot of information in the syllabus. Please enjoy this no-bs summary.
 
 - Mental health and general well-being are important.
 - We can't learn anything if we are beset at all sides by stress.
-- We have to tke care of ourselves and each other or we are nowhere.
+- We have to take care of ourselves and each other or we are nowhere.
 - Be kind to one another and the instructional staff.
 - The instructional staff will be kind to you and we'll all learn some interesting stuff this semester.
 
@@ -93,7 +93,7 @@ There is a lot of information in the syllabus. Please enjoy this no-bs summary.
 
 - Figure it out.
 
-### I thought the course was about something else entirely and I'm mad about it
+### I thought the course was about something else entirely and I'm mad about it!
 
 - Oh no... I don't care.
 - It's SUPER DUPER EASY to drop this class if you don't like it.
