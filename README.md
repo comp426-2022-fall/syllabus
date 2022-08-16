@@ -69,13 +69,13 @@ All sessions will be archived as well so that you may return to them or view the
 
 There is no Sakai or Canvas site for this course. Sakai is garbage and Canvas is a corporate surveillance tool. I will not subject myself or any of you to either of them in the context of this course. If you do not like this, please feel free to drop the class.
 
-### Email
+#### Email
 
 If you need to speak with a member of the instructional staff directly through private communication channels about a private matter, please use the email addresses listed above. Anything you communicate in this manner will be held in confidence.
 
-If your email communication is about an assignment, then you will be asked to create an issue. 
+_If your email communication is about an assignment, then you will be asked to create an issue._
 
-If your communication is about general course information or course topics, then you will be asked to create a discussion post. 
+_If your communication is about general course information or course topics, then you will be asked to create a discussion post._
 
 There are hundreds of members of this class and few instructional staff. The systems that we have set up to address communication are there to manage this workload so that we may provide you with the information you need while also not burning ourselves out.
 
