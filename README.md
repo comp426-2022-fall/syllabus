@@ -15,9 +15,9 @@ We will discuss licensing and make use of and operate entirely within open sourc
 | **John D. Martin III** | Professor |  @jdmar3 | [john.d.martin.iii@unc.edu](mailto:john.d.martin.iii@unc.edu) |
 | **Cameron Simbeck** | TA | @camsimba | camsimba@live.unc.edu |
 | **Alice Yu** | LA |   | yuualice@live.unc.edu |
-| **Jessica Wang** | LA |   | jessikka@email.unc.edu |
-| **Lama Abed** | LA |  | lamaab@email.unc.edu |
-| **Nila Thillaivanan** | LA |  | vennila@email.unc.edu |
+| **Jessica Wang** | LA | jessikka12 | jessikka@email.unc.edu |
+| **Lia Abed** | LA | lamaab02 | lamaab@email.unc.edu |
+| **Nila Thillaivanan** | LA | vennila-t | vennila@email.unc.edu |
 | **Ose Izokun** | LA | @oizokun | oseizo@live.unc.edu |
 
 A table of office hours availability will be available here: 
