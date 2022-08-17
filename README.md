@@ -12,13 +12,13 @@ We will discuss licensing and make use of and operate entirely within open sourc
 
 | **Name** | **Role** | **GH username** | **Contact** |
 |:--- |:--- |:--- |:--- |
-| **John D. Martin III** | Professor |  @jdmar3 | [john.d.martin.iii@unc.edu](mailto:john.d.martin.iii@unc.edu) |
-| **Cameron Simbeck** | TA | @camsimba | camsimba@live.unc.edu |
-| **Alice Yu** | LA |   | yuualice@live.unc.edu |
-| **Jessica Wang** | LA | jessikka12 | jessikka@email.unc.edu |
-| **Lia Abed** | LA | lamaab02 | lamaab@email.unc.edu |
-| **Nila Thillaivanan** | LA | vennila-t | vennila@email.unc.edu |
-| **Ose Izokun** | LA | @oizokun | oseizo@live.unc.edu |
+| **John D. Martin III** | Professor |  [@jdmar3](https://github.com/jdmar3/) | [john.d.martin.iii@unc.edu](mailto:john.d.martin.iii@unc.edu) |
+| **Cameron Simbeck** | TA | [@camsimba](https://github.com/camsimba/) | camsimba@live.unc.edu |
+| **Alice Yu** | LA |  [@yuualice](https://github.com/yuualice/) | yuualice@live.unc.edu |
+| **Jessica Wang** | LA | [@jessikka12](https://github.com/jessikka12/) | jessikka@email.unc.edu |
+| **Lia Abed** | LA | [@lamaab02](https://github.com/lamaab02/) | lamaab@email.unc.edu |
+| **Nila Thillaivanan** | LA | [@vennila-t](https://github.com/vennila-t/) | vennila@email.unc.edu |
+| **Ose Izokun** | LA | [@oizokun](https://github.com/oizokun/) | oseizo@live.unc.edu |
 
 A table of office hours availability will be available here: 
 
@@ -32,7 +32,6 @@ A table of office hours availability will be available here:
 | **First day** | 2022-08-16 |
 | **Last day** | 2022-11-29 |
 | **Exam day** | 2022-12-08T12:00:00+04:00 |
-
 
 | **_No class days_** | **Date** |
 |:--- |:--- |
