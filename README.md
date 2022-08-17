@@ -53,7 +53,7 @@ All sessions will be archived as well so that you may return to them or view the
 |:--- |:--- |:--- |:--- |
 | **In-person sessions** | Global Education Center | Room 1015 | (Nelson Mandela Auditorium) |
 | **Remote sessions** | Zoom | https://unc.zoom.us/j/99902468068 | Password: [the date that Tim Berners Lee invented the World Wide Web in ISO8601 (YYYYMMDD)](https://en.wikipedia.org/wiki/Tim_Berners-Lee#:~:text=management%20system%20on-,12%20March%201989,-%2C%5B5%5D) |
-| **Archived sessions** | Panopto |  |  |
+| **Archived sessions** | Panopto | https://uncch.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=f6012de3-8e0c-42ff-945b-aef400c595f7 | (publicly available) |
 
 ### Course communication
 
