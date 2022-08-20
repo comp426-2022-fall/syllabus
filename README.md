@@ -58,7 +58,10 @@ All sessions will be archived as well so that you may return to them or view the
 
 #### Questions about assignments
 
-**_ALL_** questions about assignments must be created as issues on the appropriate repository in the course GitHub organization. This MUST be done BEFORE coming to office hours for help. Staff will not be able to help you if you do not create an issue first. 
+**_ALL_** questions about assignments must be created as issues on the appropriate assignment _template_ repository in the course GitHub organization.
+You can find a list of template repositories where you can post issues in the [assignments repo](https://github.com/comp426-2022-fall/assignments/).
+
+This MUST be done BEFORE coming to office hours for help. Staff will not be able to help you if you do not create an issue first. 
 
 #### Announcements and other communications
 
