@@ -15,8 +15,8 @@ We will discuss licensing and make use of and operate entirely within open sourc
 | **John D. Martin III** | Professor |  [@jdmar3](https://github.com/jdmar3/) | [john.d.martin.iii@unc.edu](mailto:john.d.martin.iii@unc.edu) |
 | **Cameron Simbeck** | TA | [@camsimba](https://github.com/camsimba/) | [camsimba@live.unc.edu](mailto:camsimba@live.unc.edu) |
 | **Alice Yu** | LA |  [@yuualice](https://github.com/yuualice/) | [yuualice@live.unc.edu](mailto:yuualice@live.unc.edu) |
-| **Dylan Yang** | LA [@]() | [dyang103@live.unc.edu](mailto:dyang103@live.unc.edu] |
-| **Ellis Kay** | LA []() | [smellis@live.unc.edu](mailto:smellis@live.unc.edu) |
+| **Dylan Yang** | LA | [@dyang103](https://github.com/dyang103) | [dyang103@live.unc.edu](mailto:dyang103@live.unc.edu] |
+| **Ellis Kay** | LA [@smelliskay](https://github.com/orgs/comp426-2022-spring/people/smelliskay) | [smellis@live.unc.edu](mailto:smellis@live.unc.edu) |
 | **Jessica Wang** | LA | [@jessikka12](https://github.com/jessikka12/) | [jessikka@email.unc.edu](mailto:jessikka@email.unc.edu) |
 | **Lia Abed** | LA | [@lamaab02](https://github.com/lamaab02/) | [lamaab@email.unc.edu](mailto:lamaab@email.unc.edu) |
 | **Nila Thillaivanan** | LA | [@vennila-t](https://github.com/vennila-t/) | [vennila@email.unc.edu](mailto:vennila@email.unc.edu) |
