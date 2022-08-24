@@ -8,6 +8,7 @@ This will likely be remote-only, but there may be an in-person option offered by
 Office hours will be listed in the table below.
 
 | Day of week | Time (EST) | Name | Format | Location | 
+| --- | --- | --- | --- | --- |
 | Monday | 10:00am - 11:00am | Alice Yu |:--- | https://mydigitalhand.org/enrollment/34131 |
 | Monday | 1:00pm - 3:30pm | Ose Izokun |:--- | https://mydigitalhand.org/enrollment/34131 |
 | Monday | 1:10pm - 2:10pm | Lia Abed |:--- | https://mydigitalhand.org/enrollment/34131 |
