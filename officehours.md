@@ -14,7 +14,7 @@ Office hours will be listed in the table below and updated when there are change
 | Monday | 10:00am - 11:00am | Alice Yu | Remote | https://mydigitalhand.org/enrollment/34131 |
 | Monday | 1:00pm - 3:30pm | Ose Izokun | Remote | https://mydigitalhand.org/enrollment/34131 |
 | Monday | 1:10pm - 2:10pm | Lia Abed | Remote | https://mydigitalhand.org/enrollment/34131 |
-| Monday | 3:30pm - 4:30pm | Jessica Wang | Remote  https://mydigitalhand.org/enrollment/34131 |
+| Monday | 3:30pm - 4:30pm | Jessica Wang | Remote | https://mydigitalhand.org/enrollment/34131 |
 | Tuesday | 11:00am - 1:00pm | Dylan Yang | Remote | https://mydigitalhand.org/enrollment/34131 |
 | Tuesday | 11:00am - 1:00pm | Ellis Kay | Remote | https://mydigitalhand.org/enrollment/34131 |
 | Tuesday | 11:30am - 12:30pm | Nila Thillaivanan | Remote | https://mydigitalhand.org/enrollment/34131 |
