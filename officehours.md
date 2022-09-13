@@ -11,21 +11,22 @@ Office hours will be listed in the table below and updated when there are change
 
 | Day of week | Time (EST) | Name | Format | Location | 
 | --- | --- | --- | --- | --- |
-| Monday | 10:00am - 11:00am | Alice Yu | Remote | https://mydigitalhand.org/enrollment/34131 |
 | Monday | 1:00pm - 3:30pm | Ose Izokun | Remote | https://mydigitalhand.org/enrollment/34131 |
 | Monday | 1:10pm - 2:10pm | Lia Abed | Remote | https://mydigitalhand.org/enrollment/34131 |
 | Monday | 3:30pm - 4:30pm | Jessica Wang | Remote | https://mydigitalhand.org/enrollment/34131 |
 | Tuesday | 11:00am - 1:00pm | Dylan Yang | Remote | https://mydigitalhand.org/enrollment/34131 |
 | Tuesday | 11:00am - 1:00pm | Ellis Kay | Remote | https://mydigitalhand.org/enrollment/34131 |
 | Tuesday | 11:30am - 12:30pm | Nila Thillaivanan | Remote | https://mydigitalhand.org/enrollment/34131 |
+| Tuesday | 1:00pm - 2:00pm | Alice Yu | Remote | https://mydigitalhand.org/enrollment/34131 |
 | Tuesday | 1:30pm - 3:00pm | Lia Abed | Remote | https://mydigitalhand.org/enrollment/34131 |
 | Tuesday | 2:00pm - 3:00pm | Jessica Wang | Remote | https://mydigitalhand.org/enrollment/34131 |
-| Tuesday | 8:00pm - 9:00pm | Alice Yu | Remote | https://mydigitalhand.org/enrollment/34131 |
 | Wednesday | 12:30pm - 2:30pm | Nila Thillaivanan | Remote | https://mydigitalhand.org/enrollment/34131 |
 | Wednesday | 1:00pm - 2:00pm | Lia Abed | Remote | https://mydigitalhand.org/enrollment/34131 |
+| Wednesday | 1:00pm - 3:00pm | Alice Yu | Remote | https://mydigitalhand.org/enrollment/34131 |
 | Wednesday | 1:00pm - 3:30pm | Ose Izokun | Remote | https://mydigitalhand.org/enrollment/34131 |
 | Thursday | 11:00am - 1:00pm | Dylan Yang | Remote | https://mydigitalhand.org/enrollment/34131 |
 | Thursday | 11:30am - 1:30pm | Nila Thillaivanan | Remote | https://mydigitalhand.org/enrollment/34131 |
+| Thursday | 1:00pm - 3:00pm | Alice Yu | Remote | https://mydigitalhand.org/enrollment/34131 |
 | Thursday | 2:00pm - 3:00pm | Jessica Wang | Remote | https://mydigitalhand.org/enrollment/34131 |
 | Thursday | 4:00pm - 6:00pm | Ellis Kay | Remote | https://mydigitalhand.org/enrollment/34131 |
 | Friday | 10:00am - 11:30pm | Lia Abed | Remote | https://mydigitalhand.org/enrollment/34131 |
