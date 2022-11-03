@@ -34,7 +34,7 @@ Office hours will be listed in the table below and updated when there are change
 | Friday | 2:00pm - 3:00pm | Dylan Yang | Remote | https://mydigitalhand.org/enrollment/34131 |
 | Friday | 4:00pm - 5:00pm | Ellis Kay | Remote | https://mydigitalhand.org/enrollment/34131 |
 
-Your instructor's (John) office hours are by appointment. 
+Your instructor's (John) office hours are by appointment. See below. 
 
 > If you wish to schedule office with me hours please <a href="mailto:john.d.martin.iii@unc.edu?subject=Office hours request">email me</a>. Please suggest at least two dates and indicate morning or afternoon. Please also give a synopsis of what you would like to meet about so that I may prepare ahead of time.
 
